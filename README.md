@@ -1,4 +1,4 @@
-<h>Technical Prodiciency</h>
+<h bold >Technical Prodiciency</h>
 <h1 bold >Languages</h1>
 <p align="center">
   <a href="https://skillicons.dev">
