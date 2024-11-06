@@ -8,7 +8,7 @@
 <h2 bold >Softwares </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,idea,linux,MongoDB,MySQL,notion,npm,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,idea,linux,MongoDB,MySQL,npm,obsidian" />
   </a>
 </p>
 <h3 bold >Frameworks</h3>
@@ -17,7 +17,11 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,tensorflow,pytorch" />
   </a>
 </p>
-- 📫 How to reach me: This is my LinkedIn page - https://www.linkedin.com/in/sandeep-uthayakumar-8b7242255/ ;
+<p>To contact me </p>
+<a href = "https://www.linkedin.com/in/sandeep-uthayakumar-8b7242255/">
+  <img src = "https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
 
 
 <!---
