@@ -1,3 +1,20 @@
+
+<h bold >Hi! I'm Sandeep</h1>
+      <p>A junior who is interested in coding and exploring  tech fields </p>
+
+<p style="font-size: larger;" >2022 - 2026</p>
+         Bachelor of Technology<br>
+         Discipline: Computer Science<br>
+        National Institute of Technology, Puducherry<br>
+        CGPA – 7.91/10
+        <p style="font-size: large;" >2020 - 2022</p>
+        Grade 12, CBSE<br>
+        Aditya Vidyashram Gurugram, India <br>
+        Score – 85.8 %
+        <p style="font-size: large;" >2015 - 2020</p>
+        Grade 10, CBSE<br>
+        Amrita Vidyalayam, India <br>
+        Score – 91.4 %
 <h bold >Technical Prodiciency</h>
 <h1 bold >Languages</h1>
 <p align="center">
