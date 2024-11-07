@@ -1,12 +1,8 @@
 
 ## Hi, I'm Sandeep 👋
-I'm a full stack developer, passionate about coding and technology!
+I'm a full-stack developer, passionate about coding and technology!
 
-Currently
-![status](https://img.shields.io/badge/currently-offline-lightgrey)
-![coding](https://img.shields.io/badge/coding-nothing%20rn-blue)
-
-<h bold >Technical Prodiciency</h>
+## Technical Proficiency
 <h1 bold >Languages</h1>
 <p align="center">
   <a href="https://skillicons.dev">
