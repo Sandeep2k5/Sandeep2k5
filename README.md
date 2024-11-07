@@ -1,20 +1,18 @@
 
-<h bold >Hi! I'm Sandeep</h1>
-      <p>A junior who is interested in coding and exploring  tech fields </p>
+## Hi, I'm Sandeep 👋
+I'm a fullstack developer, passionate about coding and technology!
 
-<p style="font-size: larger;" >2022 - 2026</p>
-         Bachelor of Technology<br>
-         Discipline: Computer Science<br>
-        National Institute of Technology, Puducherry<br>
-        CGPA – 7.91/10
-        <p style="font-size: large;" >2020 - 2022</p>
-        Grade 12, CBSE<br>
-        Aditya Vidyashram Gurugram, India <br>
-        Score – 85.8 %
-        <p style="font-size: large;" >2015 - 2020</p>
-        Grade 10, CBSE<br>
-        Amrita Vidyalayam, India <br>
-        Score – 91.4 %
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Currently
+![status](https://img.shields.io/badge/currently-offline-lightgrey)
+![coding](https://img.shields.io/badge/coding-nothing%20rn-blue)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+
 <h bold >Technical Prodiciency</h>
 <h1 bold >Languages</h1>
 <p align="center">
