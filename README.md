@@ -5,7 +5,7 @@ I'm a full-stack developer, passionate about coding and technology!
 <h1 bold >Languages</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css,ts" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css" />
   </a>
 </p>
 <h2 bold >Softwares </h2>
