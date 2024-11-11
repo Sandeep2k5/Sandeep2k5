@@ -25,6 +25,9 @@ I'm a full-stack developer, passionate about coding and technology!
 <a href = "https://www.linkedin.com/in/sandeep-uthayakumar-8b7242255/">
   <img src = "https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  <a href = "https://www.instagram.com/s_a_n_d__e_e__p/">
+    <img src = "https://skillicons.dev/icons?i=instagram"/>
+  </a>
   </p>
 
 
