@@ -20,10 +20,12 @@ I'm a full-stack developer, passionate about coding and technology!
     <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,tensorflow,pytorch" />
   </a>
 </p>
-<p bold >To contact me </p>
+<h3 bold >To contact me </h3>
+<p align="center">
 <a href = "https://www.linkedin.com/in/sandeep-uthayakumar-8b7242255/">
   <img src = "https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  </p>
 
 
 
