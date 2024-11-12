@@ -1,5 +1,5 @@
-## Hi, I'm Sandeep 👋
-I'm a full-stack developer, passionate about coding and technology!
+<h1 bold>## Hi, I'm Sandeep 👋</h1>
+<h2 bold>I'm a full-stack developer, passionate about coding and technology!</h2>
 
 ## Technical Proficiency
 <h1 bold >Languages</h1>
