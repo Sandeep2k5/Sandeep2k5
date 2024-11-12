@@ -1,4 +1,4 @@
-<h1 bold>## Hi, I'm Sandeep 👋</h1>
+<h1 bold>Hi, I'm Sandeep 👋</h1>
 <h2 bold>I'm a full-stack developer, passionate about coding and technology!</h2>
 
 ## Technical Proficiency
