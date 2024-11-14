@@ -17,7 +17,7 @@
 <h3 bold >Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,tensorflow,pytorch" />
   </a>
 </p>
 <h3 bold >To contact me </h3>
