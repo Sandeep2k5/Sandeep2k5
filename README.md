@@ -11,7 +11,7 @@
 <h2 bold >Softwares </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,idea,linux,mongodb,mysql,npm,obsidian,fastapi&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,idea,linux,mongodb,mysql,npm,postman,fastapi&perline=4" />
   </a>
 </p>
 <h3 bold >Frameworks</h3>
