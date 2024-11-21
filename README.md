@@ -5,7 +5,7 @@
 <h1 bold >Languages</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css&perline=3" />
   </a>
 </p>
 <h2 bold >Softwares </h2>
@@ -17,7 +17,7 @@
 <h3 bold >Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,tensorflow,pytorch&perline=3"  />
   </a>
 </p>
 <h3 bold >To contact me </h3>
