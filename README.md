@@ -1,4 +1,3 @@
-
  <h1 bold>Hi, I'm Sandeep 👋</h1>
 <h4 bold>I'm a full-stack developer, passionate about coding and technology!</h4>
 
@@ -18,7 +17,7 @@
 <h3 bold >Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,tailwind,tensorflow,pytorch,django" />
   </a>
 </p>
 <h3 bold >To contact me </h3>
