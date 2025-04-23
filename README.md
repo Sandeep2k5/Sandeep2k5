@@ -5,7 +5,7 @@
 <h1 bold >Languages</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,py,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css" />
   </a>
 </p>
 <h2 bold >Softwares</h2>
