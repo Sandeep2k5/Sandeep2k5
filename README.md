@@ -31,9 +31,7 @@
   <a href = "sandeeputhauakumar@gmail.com">
     <img src = "https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href = "https://sandeep2k5.netlify.app/">
-    <img src = "https://skillicons.dev/icons?i=netlify"/>
-  </a>
+  
   </p>
 
 
