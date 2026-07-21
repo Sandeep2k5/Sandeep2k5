@@ -28,7 +28,7 @@
   <a href = "https://www.instagram.com/s_a_n_d__e_e__p/">
     <img src = "https://skillicons.dev/icons?i=instagram"/>
   </a>
-  <a href = "sandeeputhauakumar@gmail.com">
+  <a href = "sandeeputhayakumar@gmail.com">
     <img src = "https://skillicons.dev/icons?i=gmail"/>
   </a>
   
