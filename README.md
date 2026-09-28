@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,50:8b0a1a,100:ff3b4a&height=200&section=header&text=Sandeep%20Uthayakumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20HSBC&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sandeep Uthayakumar — Software Engineer @ HSBC" />
 
 <a href="https://sandeep2k5.is-a.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF3B4A&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+HSBC.;Backend+APIs+that+stay+fast+under+load.;Full-stack%2C+from+the+data+layer+to+the+pixel.;Applied+deep+learning+research." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF3B4A&center=true&vCenter=true&width=560&lines=Working+in+trading+floor+systems+at+HSBC.;Backend+APIs+that+stay+fast+under+load.;Full-stack%2C+from+the+data+layer+to+the+pixel.;Applied+deep+learning+research." alt="Typing intro" />
 </a>
 
 <br/>
