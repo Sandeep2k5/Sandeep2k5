@@ -1,139 +1,55 @@
-<div align="center">
+<a href="https://sandeep2k5.is-a.dev/"><img src="assets/banner.jpg" alt="Sandeep Uthayakumar, software engineer" width="100%" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,50:8b0a1a,100:ff3b4a&height=200&section=header&text=Sandeep%20Uthayakumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20HSBC&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sandeep Uthayakumar — Software Engineer @ HSBC" />
+I'm a software engineer at **HSBC**, working on trading floor applications for front-office desks and on the Verint compliance platform. Before that I built backend APIs, full-stack web apps, and deep learning models that ended up in two published papers.
 
-<a href="https://sandeep2k5.is-a.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF3B4A&center=true&vCenter=true&width=560&lines=I+build+trading+floor+systems.;Backend+APIs+that+stay+fast+under+load.;Full-stack%2C+from+the+data+layer+to+the+pixel.;Applied+deep+learning+%C2%B7+2+published+papers." alt="Typing intro" />
-</a>
+I like owning a thing end to end, from the data layer to the interface, and then making it fast.
 
-<br/>
+[Portfolio](https://sandeep2k5.is-a.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sandeep-uthayakumar-8b7242255/) &nbsp;·&nbsp; [sandeeputhayakumar@gmail.com](mailto:sandeeputhayakumar@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sandeep2k5.is--a.dev-ff3b4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sandeep2k5.is-a.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-uthayakumar-8b7242255/)
-[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeeputhayakumar@gmail.com)
+<br />
 
-</div>
-
----
-
-### 🕷️ About me
-
-I like building things end to end — from the data layer up to the UI — and then making them fast and easy to maintain.
-
-- 🏦 **Now:** Software Engineer at **HSBC**, on trading floor applications for front-office desks and the Verint compliance platform
-- ⚡ **Shipped:** re-engineered CRM backend APIs — **70% faster** responses, **~75k requests/hour** sustained
-- 📄 **Published:** two peer-reviewed papers (IEEE · ScienceDirect) in applied deep learning
-- 🌆 **Built:** a portfolio that's a camera flight through a 3D city — [take the ride →](https://sandeep2k5.is-a.dev/)
-
-<div align="center">
-
-| 📑 Papers | 💼 Engineering roles | 🧠 Best F1-score |
-|:---:|:---:|:---:|
-| **2** | **3** | **99.98%** |
-
-</div>
-
----
-
-### 🛠️ Tech stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,mysql&theme=dark" alt="C, C++, Python, JavaScript, TypeScript, SQL" />
-
-**Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,angular,fastapi,tailwind,django&theme=dark" alt="React, Next.js, Node.js, Express, Angular, FastAPI, Tailwind, Django" />
-
-**Data, ML & tooling**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,pytorch,tensorflow,sklearn,docker,git,linux,postman&theme=dark" alt="MongoDB, MySQL, PyTorch, TensorFlow, scikit-learn, Docker, Git, Linux, Postman" />
-
-</div>
-
----
-
-### 💼 Experience
-
-| When | Where | What |
-|---|---|---|
-| **Jul 2026 — now** | 🏦 **HSBC** · Software Engineer | Trading floor systems for front-office desks; Verint compliance platform (workforce management, analytics, migration) |
-| **May — Jul 2025** | ⚙️ **VidyaInternaHub** · Backend Intern | CRM APIs: **−70%** response time, **~75k req/hr** without degradation |
-| **Sep — Dec 2023** | 🔬 **NIT Puducherry** · Research Intern | Python crypto wallet: blockchain ledger, proof-of-work validation, PyQt5 desktop client |
-
----
-
-### 🚀 Featured projects
+### Selected work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌆 [Spider-Verse Portfolio](https://github.com/Sandeep2k5/Portfolio)
-One three.js scene, one scroll-driven camera spline, six custom GLSL shaders. Not a page — a flight through a city.
-
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=000)
-![three.js](https://img.shields.io/badge/-three.js-000?style=flat-square&logo=three.js&logoColor=fff)
-![GLSL](https://img.shields.io/badge/-GLSL-ff3b4a?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛡️ [Android Malware Detection](https://github.com/Sandeep2k5/Artificial-Intelligence-Model-for-Android-Malware-Detection)
-Hybrid CNN-LSTM + Random Forest pipeline that classifies APK malware and predicts its family. **99.98% F1** · published via IEEE.
-
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![TensorFlow](https://img.shields.io/badge/-Deep_Learning-ff6f00?style=flat-square&logo=tensorflow&logoColor=fff)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=fff)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💻 [DSA Browser IDE](https://github.com/Sandeep2k5/learning-project)
-Monaco + C++ in the browser. Type a test case, press Run, get output in ~1s via Compiler Explorer. Nothing to deploy. [Try it →](https://sandeep2k5.github.io/learning-project/)
-
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=000)
-![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=cplusplus&logoColor=fff)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🪙 [Cryptocurrency Wallet](https://github.com/Sandeep2k5/Cryptocurreny-Wallet)
-Python wallet with blockchain integration and a PyQt5 desktop client — accounts, balances and proof-of-work validated transfers.
-
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121d33?style=flat-square&logo=blockchaindotcom&logoColor=fff)
-![Qt](https://img.shields.io/badge/-PyQt5-41cd52?style=flat-square&logo=qt&logoColor=fff)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sandeep2k5.is-a.dev/"><img src="assets/portfolio.jpg" alt="Portfolio: project cards floating in a 3D city" /></a>
+      <p><a href="https://github.com/Sandeep2k5/Portfolio"><b>Portfolio</b></a><br />
+      One three.js scene that you scroll through as a camera flight across a city. Six hand-written GLSL shaders, styled after Spider-Verse.</p>
+      <sub><code>React</code> <code>three.js</code> <code>GLSL</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sandeep2k5.github.io/learning-project/"><img src="assets/ide.jpg" alt="Browser IDE: C++ editor, input panel and console" /></a>
+      <p><a href="https://github.com/Sandeep2k5/learning-project"><b>DSA Browser IDE</b></a><br />
+      Write C++ in the browser, type a test case, press Run. It compiles on Compiler Explorer and answers in about a second.</p>
+      <sub><code>React</code> <code>Vite</code> <code>Monaco</code> <code>C++</code></sub>
+    </td>
+  </tr>
 </table>
 
----
+**[Android Malware Detection](https://github.com/Sandeep2k5/Artificial-Intelligence-Model-for-Android-Malware-Detection)**<br />
+A CNN-LSTM and Random Forest pipeline that flags malicious APKs and predicts which malware family they belong to. 99.98% F1-score, published at IEEE ICCCNT 2025.
 
-### 📰 Publications
+**[Cryptocurrency Wallet](https://github.com/Sandeep2k5/Cryptocurreny-Wallet)**<br />
+A Python wallet with its own ledger, proof-of-work transaction validation and a PyQt5 desktop client. Built during my research internship at NIT Puducherry.
 
-- **APK Malware Detection and Family Prediction Using CNN-LSTM and RF Classifiers** — *IEEE, 16th ICCCNT, 2025*
-  <br/><sub>215 static features reshaped into a 43×5 matrix; CNN layers extract spatial features, LSTM layers capture sequence. 99.98% F1-score.</sub>
-- **[Multi-Head Attention Transformer for Text-to-Text Translation](https://www.sciencedirect.com/science/article/pii/S1877050925015509)** — *ScienceDirect, Procedia, 2025*
-  <br/><sub>English-to-Tamil translation with a multi-head attention Transformer — 40% accuracy gain over the baseline.</sub>
+<br />
 
----
+### Experience
 
-<div align="center">
+```text
+2026 – now    HSBC               Software Engineer     Trading floor systems, Verint compliance platform
+2025          VidyaInternaHub    Backend Intern        CRM APIs 70% faster, ~75k requests/hour sustained
+2023          NIT Puducherry     Research Intern       Blockchain wallet with a PyQt5 desktop client
+```
 
-**📡 Let's build something fast.**
+### Research
 
-[![Portfolio](https://img.shields.io/badge/-sandeep2k5.is--a.dev-ff3b4a?style=flat-square&logo=googlechrome&logoColor=white)](https://sandeep2k5.is-a.dev/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-uthayakumar-8b7242255/)
-[![Email](https://img.shields.io/badge/-sandeeputhayakumar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sandeeputhayakumar@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Sandeep2k5&color=ff3b4a&style=flat-square&label=profile+views)
+- **APK Malware Detection and Family Prediction Using CNN-LSTM and RF Classifiers**<br />
+  <sub>IEEE · 16th ICCCNT · 2025</sub>
+- **[Multi-Head Attention Transformer for Text-to-Text Translation](https://www.sciencedirect.com/science/article/pii/S1877050925015509)**<br />
+  <sub>Procedia Computer Science · ScienceDirect · 2025</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b4a,50:8b0a1a,100:0d0d12&height=110&section=footer" width="100%" alt="" />
+### Tools I reach for
 
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,py,ts,react,nextjs,nodejs,fastapi,pytorch,mongodb,mysql,docker,git&perline=12" alt="C++, Python, TypeScript, React, Next.js, Node.js, FastAPI, PyTorch, MongoDB, MySQL, Docker, Git" height="40" />
